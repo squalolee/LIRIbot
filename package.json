@@ -4,6 +4,10 @@
   "description": "Liri",
   "main": "keys.js",
   "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.29.0",
+    "node-spotify-api": "^1.1.1",
     "request": "^2.88.2",
     "spotify": "^0.3.0",
     "twitter": "^1.7.1"
